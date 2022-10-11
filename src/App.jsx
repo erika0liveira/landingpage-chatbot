@@ -1,3 +1,5 @@
+import { Box, Typography } from "@mui/material";
+import TextField from "@mui/material/TextField";
 import AdvImg1 from "./assets/adv-1.jpg";
 import AdvImg2 from "./assets/adv-2.jpg";
 import AdvImg3 from "./assets/adv-3.jpg";
@@ -20,10 +22,8 @@ import {
   MainTextTypography,
   SecondBox,
   SubTextTypography,
-  ThirdBox,
+  ThirdBox
 } from "./styles";
-import TextField from "@mui/material/TextField";
-import { Box, Typography } from "@mui/material";
 
 export const App = () => {
   return (
