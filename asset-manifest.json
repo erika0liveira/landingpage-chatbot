@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.44728870.js",
-    "static/media/adv-3.jpg": "/static/media/adv-3.76e7cbe4a27efd9b3a0f.jpg",
-    "static/media/adv-1.jpg": "/static/media/adv-1.9d207d420690746b8644.jpg",
-    "static/media/adv-4.jpg": "/static/media/adv-4.3997289249970dfc1f87.jpg",
-    "static/media/adv-2.jpg": "/static/media/adv-2.8c521c235d4bd711343c.jpg",
-    "static/media/chatbot-main.jpg": "/static/media/chatbot-main.b71ad9f8ac255d7fe6ce.jpg",
-    "index.html": "/index.html",
-    "main.44728870.js.map": "/static/js/main.44728870.js.map"
+    "main.js": "/landingpage-chatbot/static/js/main.4cd4e138.js",
+    "static/media/adv-3.jpg": "/landingpage-chatbot/static/media/adv-3.76e7cbe4a27efd9b3a0f.jpg",
+    "static/media/adv-1.jpg": "/landingpage-chatbot/static/media/adv-1.9d207d420690746b8644.jpg",
+    "static/media/adv-4.jpg": "/landingpage-chatbot/static/media/adv-4.3997289249970dfc1f87.jpg",
+    "static/media/adv-2.jpg": "/landingpage-chatbot/static/media/adv-2.8c521c235d4bd711343c.jpg",
+    "static/media/chatbot-main.jpg": "/landingpage-chatbot/static/media/chatbot-main.b71ad9f8ac255d7fe6ce.jpg",
+    "index.html": "/landingpage-chatbot/index.html",
+    "main.4cd4e138.js.map": "/landingpage-chatbot/static/js/main.4cd4e138.js.map"
   },
   "entrypoints": [
-    "static/js/main.44728870.js"
+    "static/js/main.4cd4e138.js"
   ]
 }
